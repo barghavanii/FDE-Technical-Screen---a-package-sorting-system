@@ -93,13 +93,6 @@ All tests are in the `test_sort()` function and run automatically when you execu
 - Then checks mass for heaviness
 - Finally determines the stack based on both conditions
 
-## Files
-
-```
-exam_healthcare.py  - Main implementation and tests
-requirements.txt    - Empty (no dependencies needed)
-README.md          - This file
-```
 
 ## About
 
